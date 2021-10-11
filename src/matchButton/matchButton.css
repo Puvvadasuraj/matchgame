@@ -1,0 +1,14 @@
+.itemButton {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 30px;
+  padding: 15px;
+  font-style: 'Roboto';
+  outline: none;
+  cursor: pointer;
+}
+
+.activeContainer {
+  color: #fec653;
+}

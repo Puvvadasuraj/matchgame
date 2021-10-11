@@ -1,0 +1,11 @@
+.thumbImage {
+  height: 150px;
+  padding: 12px;
+}
+
+.thumbClass {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}

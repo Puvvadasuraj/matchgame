@@ -1,0 +1,8 @@
+.scoreCardContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+  background-size: cover;
+  height: 100vh;
+  position: center;
+  padding: 12px;
+  margin: 250px;
+}
